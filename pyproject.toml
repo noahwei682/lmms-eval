@@ -26,7 +26,7 @@ dependencies = [
     "isort==5.13.2",
     "datasets==3.2.0",
     "evaluate>=0.4.0",
-    "httpx==0.23.3",
+    "httpx==0.28.1",
     "jsonlines",
     "numexpr",
     "numpy==1.26.4",
